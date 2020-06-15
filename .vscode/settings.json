@@ -8,8 +8,6 @@
   "cSpell.words": [
     "itertools"
   ],
-  "python.testing.pytestArgs": [
-    "--ignore=tests_winpowerlib"
-  ],
+  "python.testing.pytestArgs": [],
   "python.linting.pylintEnabled": false
 }
