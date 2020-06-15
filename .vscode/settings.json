@@ -1,0 +1,15 @@
+{
+  "python.formatting.provider": "black",
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": [],
+  "python.pythonPath": ".venv\\Scripts\\python.exe",
+  "python.testing.pytestEnabled": true,
+  "cSpell.words": [
+    "itertools"
+  ],
+  "python.testing.pytestArgs": [
+    "--ignore=tests_winpowerlib"
+  ],
+  "python.linting.pylintEnabled": false
+}
